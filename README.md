@@ -1,9 +1,9 @@
-# 🛒 Customer Segmentation Using RFM Analysis  
+#  Customer Segmentation Using RFM Analysis  
 
 This project performs **Customer Segmentation using RFM (Recency, Frequency, Monetary) Analysis** on the famous **Online Retail Dataset (UCI)**.  
 It’s a practical way to identify different customer groups and create targeted marketing strategies.  
 
----
+
 
 ##  Project Overview  
 
@@ -35,7 +35,7 @@ The project follows these steps:
 6. **Marketing Ideas (Step 7)**  
    - Each segment is linked to actionable marketing strategies (see below).  
 
----
+
 
 ##  Marketing Ideas Based on Segments  
 
@@ -51,18 +51,16 @@ The project follows these steps:
 
 **Lost Customers** → Try re-engagement campaigns or surveys to understand why they left.  
 
-**Hibernating** → Send seasonal offers or personalized recommendations to wake them up.  
+ 
 
-**Need Attention** → Targeted campaigns to keep them from slipping away.  
 
----
 
 ##  Visuals  
 
 - **Segment Count Plot** → Shows how many customers belong to each segment.  
 - **Heatmap** → Displays average Recency, Frequency, and Monetary for each segment.  
 
----
+
 
 ##  Technologies Used  
 
@@ -72,7 +70,7 @@ The project follows these steps:
 - **Seaborn**  
 - **Jupyter Notebook**  
 
----
+
 
 ##  Files in this Repository  
 
@@ -80,7 +78,7 @@ The project follows these steps:
 - `README.md` → This file.  
 - `Online Retail Dataset` → (Download from UCI Machine Learning Repository).  
 
----
+
 
 ##  How to Run  
 
